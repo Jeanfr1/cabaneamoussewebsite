@@ -4,3 +4,4 @@ assets-src/
 qa/
 .DS_Store
 .vercel
+__pycache__/

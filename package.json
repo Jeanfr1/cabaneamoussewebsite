@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview --port 4196",
     "photos": "~/anaconda3/bin/python3 scripts/prepare-photos.py",
-    "hero": "~/anaconda3/bin/python3 scripts/compose-hero.py",
+    "board": "~/anaconda3/bin/python3 scripts/board-plates.py",
     "fonts": "~/anaconda3/bin/python3 scripts/subset-fonts.py",
     "images": "node scripts/build-images.mjs",
     "qa": "node scripts/qa.mjs",
@@ -20,7 +20,10 @@
     "node": ">=20.10"
   },
   "devDependencies": {
-    "@fontsource/caveat": "^5.3.0",
+    "@fontsource-variable/roboto-serif": "^5.3.0",
+    "@fontsource/anton": "^5.3.0",
+    "@fontsource/kaushan-script": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
     "@fontsource/oswald": "^5.3.0",
     "playwright-core": "^1.64.0",
     "sharp": "^0.33.5",

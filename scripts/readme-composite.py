@@ -66,7 +66,7 @@ def main():
     shutil.copy(os.path.join(RAW, 'banner.png'), os.path.join(OUT, 'banner.png'))
 
     # desktop: 2 x 2 browser frames
-    shots = [Image.open(os.path.join(RAW, f'desktop-{k}.png')) for k in ('bar', 'cave', 'location', 'visite')]
+    shots = [Image.open(os.path.join(RAW, f'desktop-{k}.png')) for k in ('accueil', 'bar', 'location', 'visite')]
     framed = [browser_frame(s, 900) for s in shots]
     gap = 28
     W = framed[0].width * 2 + gap * 3
@@ -99,7 +99,7 @@ def main():
     gif = os.path.join(OUT, 'hero-toast.gif')
     subprocess.run([
         'ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', lst,
-        '-vf', 'scale=880:-1:flags=lanczos,split[a][b];[a]palettegen=max_colors=160:stats_mode=diff[p];'
+        '-vf', 'scale=800:-1:flags=lanczos,split[a][b];[a]palettegen=max_colors=128:stats_mode=diff[p];'
                '[b][p]paletteuse=dither=bayer:bayer_scale=3:diff_mode=rectangle',
         '-loop', '0', gif,
     ], check=True)

@@ -1,28 +1,21 @@
 {
-  "version": "v1",
+  "version": "v3",
   "images": {
-    "toast": {
-      "width": 1536,
-      "height": 1024,
+    "hero-still": {
+      "width": 2528,
+      "height": 1250,
       "files": [
-        1536,
-        960
+        2528,
+        1700,
+        1100
       ]
     },
-    "room-soft": {
-      "width": 2080,
-      "height": 1748,
+    "hero-blur": {
+      "width": 1264,
+      "height": 625,
       "files": [
-        1920,
-        960
-      ]
-    },
-    "room-deep": {
-      "width": 2080,
-      "height": 1748,
-      "files": [
-        1600,
-        800
+        1264,
+        640
       ]
     },
     "glass-left": {
@@ -41,11 +34,42 @@
         620
       ]
     },
+    "board-s1": {
+      "width": 2048,
+      "height": 646,
+      "files": [
+        2048,
+        1400
+      ]
+    },
+    "board-s2": {
+      "width": 2048,
+      "height": 494,
+      "files": [
+        2048,
+        1400
+      ]
+    },
+    "board-s3": {
+      "width": 2048,
+      "height": 564,
+      "files": [
+        2048,
+        1400
+      ]
+    },
+    "board-strip": {
+      "width": 2048,
+      "height": 118,
+      "files": [
+        2048,
+        1200
+      ]
+    },
     "salle": {
       "width": 2080,
       "height": 1748,
       "files": [
-        2080,
         1200,
         760
       ]
@@ -54,7 +78,6 @@
       "width": 1620,
       "height": 1812,
       "files": [
-        1620,
         1000,
         640
       ]
@@ -63,7 +86,6 @@
       "width": 1612,
       "height": 1802,
       "files": [
-        1612,
         1000,
         640
       ]
