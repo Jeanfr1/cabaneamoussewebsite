@@ -1,0 +1,23 @@
+{
+  "duration": 2.8,
+  "loop": false,
+  "scroll_locked": false,
+  "reduced_motion": "pose finale sans animation",
+  "timeline": [
+    {
+      "start": 0,
+      "end": 1.25,
+      "action": "Les deux mains entrent depuis les côtés."
+    },
+    {
+      "start": 1.25,
+      "end": 1.65,
+      "action": "Les bords des verres se rencontrent; bulles discrètes."
+    },
+    {
+      "start": 1.65,
+      "end": 2.8,
+      "action": "Retour doux à la pose finale. Le titre apparaît."
+    }
+  ]
+}

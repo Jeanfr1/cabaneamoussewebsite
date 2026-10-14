@@ -1,0 +1,26 @@
+{
+  "lang": "fr",
+  "sections": [
+    {
+      "title": "On se retrouve à la Cabane.",
+      "body": "Cave · Bar · Location de tireuses"
+    },
+    {
+      "title": "Une cave. Un bar. Votre Cabane.",
+      "body": "Des bières d’ici et d’ailleurs, à déguster sur place ou à emporter. Un lieu pour se retrouver à Herbignac."
+    },
+    {
+      "title": "Le plaisir de découvrir.",
+      "body": "Une envie, un style, une découverte. Prenez le temps de choisir votre prochaine bière à la cave."
+    },
+    {
+      "title": "La fête vient chez vous.",
+      "body": "Location de tireuses à bière pour vos anniversaires, mariages et soirées. Parlons ensemble de votre événement."
+    }
+  ],
+  "address": "21 avenue de la Monneraye, 44410 Herbignac",
+  "map": "https://www.google.com/maps/search/?api=1&query=La+Cabane+a+Mousse+21+avenue+de+la+Monneraye+Herbignac",
+  "hours": null,
+  "prices": null,
+  "commercial_status": "Valider disponibilités, modalités et coordonnées avant publication."
+}

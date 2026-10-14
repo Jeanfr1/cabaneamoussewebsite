@@ -1,0 +1,222 @@
+[
+  {
+    "path": "00-referencias/modelo-02-corpo.png",
+    "bytes": 3001241,
+    "role": "modelos escolhidos"
+  },
+  {
+    "path": "00-referencias/modelo-03-hero.png",
+    "bytes": 2876593,
+    "role": "modelos escolhidos"
+  },
+  {
+    "path": "01-identidade/logo-transparente.png",
+    "bytes": 1370710,
+    "role": "logo original transparente e paleta"
+  },
+  {
+    "path": "01-identidade/paleta.json",
+    "bytes": 139,
+    "role": "logo original transparente e paleta"
+  },
+  {
+    "path": "02-direcao/DIRECAO.md",
+    "bytes": 833,
+    "role": "direção, prancha, guia, composições ilustrativas"
+  },
+  {
+    "path": "02-direcao/guia-premium-v4.pdf",
+    "bytes": 10157549,
+    "role": "direção, prancha, guia, composições ilustrativas"
+  },
+  {
+    "path": "02-direcao/maquette-desktop-illustrative.png",
+    "bytes": 2689739,
+    "role": "direção, prancha, guia, composições ilustrativas"
+  },
+  {
+    "path": "02-direcao/maquette-mobile-illustrative.png",
+    "bytes": 1576496,
+    "role": "direção, prancha, guia, composições ilustrativas"
+  },
+  {
+    "path": "02-direcao/modelo-final.png",
+    "bytes": 2689739,
+    "role": "direção, prancha, guia, composições ilustrativas"
+  },
+  {
+    "path": "03-hero/brinde.png",
+    "bytes": 2349955,
+    "role": "hero gerado de campanha"
+  },
+  {
+    "path": "03-hero/brinde.webp",
+    "bytes": 353304,
+    "role": "hero gerado de campanha"
+  },
+  {
+    "path": "04-photos-originales/cave-originale.png",
+    "bytes": 1592751,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/cave-originale.webp",
+    "bytes": 166082,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/comptoir-original.png",
+    "bytes": 1328763,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/comptoir-original.webp",
+    "bytes": 161498,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/facade-terrasse-originale.png",
+    "bytes": 1456770,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/facade-terrasse-originale.webp",
+    "bytes": 145720,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/salle-originale.png",
+    "bytes": 2351022,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "04-photos-originales/salle-originale.webp",
+    "bytes": 245286,
+    "role": "fotografias originais PNG e WEBP"
+  },
+  {
+    "path": "05-camadas/copo-direito.png",
+    "bytes": 1548375,
+    "role": "copos/mãos gerados com alpha"
+  },
+  {
+    "path": "05-camadas/copo-esquerdo.png",
+    "bytes": 1691602,
+    "role": "copos/mãos gerados com alpha"
+  },
+  {
+    "path": "06-roteiros/CONTEUDO-FR.md",
+    "bytes": 495,
+    "role": "copy, seções, motion, storyboard, vídeo ilustrativo"
+  },
+  {
+    "path": "06-roteiros/MOTION.md",
+    "bytes": 936,
+    "role": "copy, seções, motion, storyboard, vídeo ilustrativo"
+  },
+  {
+    "path": "06-roteiros/SECTIONS.md",
+    "bytes": 1122,
+    "role": "copy, seções, motion, storyboard, vídeo ilustrativo"
+  },
+  {
+    "path": "06-roteiros/apercu-animation.mp4",
+    "bytes": 224439,
+    "role": "copy, seções, motion, storyboard, vídeo ilustrativo"
+  },
+  {
+    "path": "06-roteiros/storyboard.png",
+    "bytes": 712830,
+    "role": "copy, seções, motion, storyboard, vídeo ilustrativo"
+  },
+  {
+    "path": "07-integracao/FONTES.md",
+    "bytes": 644,
+    "role": "fontes, prompts, dados, timeline"
+  },
+  {
+    "path": "07-integracao/INTEGRACAO.md",
+    "bytes": 828,
+    "role": "fontes, prompts, dados, timeline"
+  },
+  {
+    "path": "07-integracao/PROMPTS.md",
+    "bytes": 2245,
+    "role": "fontes, prompts, dados, timeline"
+  },
+  {
+    "path": "07-integracao/conteudo-fr.json",
+    "bytes": 1013,
+    "role": "fontes, prompts, dados, timeline"
+  },
+  {
+    "path": "07-integracao/provenance-originals.json",
+    "bytes": 1453,
+    "role": "fontes, prompts, dados, timeline"
+  },
+  {
+    "path": "07-integracao/timeline.json",
+    "bytes": 493,
+    "role": "fontes, prompts, dados, timeline"
+  },
+  {
+    "path": "08-estudo/fonts/Display.woff",
+    "bytes": 72456,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "08-estudo/fonts/Editorial.woff",
+    "bytes": 76884,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "08-estudo/fonts/LICENCE.txt",
+    "bytes": 52517,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "08-estudo/fonts/Sans.woff",
+    "bytes": 60912,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "08-estudo/index.html",
+    "bytes": 4975,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "08-estudo/portal.css",
+    "bytes": 6575,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "08-estudo/portal.js",
+    "bytes": 1784,
+    "role": "HTML/CSS/JS responsivo e fontes locais"
+  },
+  {
+    "path": "09-verificacao/testar-controles.cjs",
+    "bytes": 1896,
+    "role": "verificação/documentação"
+  },
+  {
+    "path": "09-verificacao/validar-arquivos.py",
+    "bytes": 1423,
+    "role": "verificação/documentação"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1173,
+    "role": "verificação/documentação"
+  },
+  {
+    "path": "VERSION.json",
+    "bytes": 207,
+    "role": "verificação/documentação"
+  },
+  {
+    "path": "catalogo.html",
+    "bytes": 912,
+    "role": "verificação/documentação"
+  }
+]

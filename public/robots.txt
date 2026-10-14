@@ -1,0 +1,3 @@
+# TODO(cabane): allow indexing once the owner approves the site and the final domain is set
+User-agent: *
+Disallow: /

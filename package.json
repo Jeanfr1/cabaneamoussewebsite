@@ -1,0 +1,28 @@
+{
+  "name": "cabaneamoussewebsite",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "La Cabane à Mousse, cave, bar à bières et location de tireuses à Herbignac — On se retrouve à la Cabane.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4196",
+    "photos": "~/anaconda3/bin/python3 scripts/prepare-photos.py",
+    "hero": "~/anaconda3/bin/python3 scripts/compose-hero.py",
+    "fonts": "~/anaconda3/bin/python3 scripts/subset-fonts.py",
+    "images": "node scripts/build-images.mjs",
+    "qa": "node scripts/qa.mjs",
+    "shots": "node scripts/shots.mjs"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "devDependencies": {
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/oswald": "^5.3.0",
+    "playwright-core": "^1.64.0",
+    "sharp": "^0.33.5",
+    "vite": "^6.4.4"
+  }
+}

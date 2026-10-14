@@ -1,0 +1,50 @@
+[
+  {
+    "file": "04-photos-originales/cave-originale.png",
+    "source": "Screenshot 2026-10-11 at 13.45.13.png",
+    "sha256": "d07b169a1c6dc7115ef85ff7f12f604e3078882d7658756b4cc7441b83842694",
+    "display_rect": {
+      "x": 0,
+      "y": 100,
+      "width": 810,
+      "height": 906
+    },
+    "pixels": "source intacte ; cadrage à l’affichage"
+  },
+  {
+    "file": "04-photos-originales/facade-terrasse-originale.png",
+    "source": "Screenshot 2026-10-11 at 13.45.25.png",
+    "sha256": "73a6df8886bb47512055ce0fd1a9fa8dda4df396c773c7d554fbce931f885434",
+    "display_rect": {
+      "x": 0,
+      "y": 100,
+      "width": 806,
+      "height": 902
+    },
+    "pixels": "source intacte ; cadrage à l’affichage"
+  },
+  {
+    "file": "04-photos-originales/salle-originale.png",
+    "source": "Screenshot 2026-10-11 at 13.45.32.png",
+    "sha256": "c8917720b2a20753a8eb22dfc850b803b5c867151f7579b6a9109ceeb5d990c2",
+    "display_rect": {
+      "x": 150,
+      "y": 120,
+      "width": 1040,
+      "height": 874
+    },
+    "pixels": "source intacte ; cadrage à l’affichage"
+  },
+  {
+    "file": "04-photos-originales/comptoir-original.png",
+    "source": "Screenshot 2026-10-11 at 13.45.44.png",
+    "sha256": "210c1628d4287e54df92cd79e42b95cda18288a8cdbbcc338270b2027461167d",
+    "display_rect": {
+      "x": 20,
+      "y": 105,
+      "width": 806,
+      "height": 901
+    },
+    "pixels": "source intacte ; cadrage à l’affichage"
+  }
+]

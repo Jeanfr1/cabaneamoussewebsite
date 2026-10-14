@@ -1,0 +1,6 @@
+node_modules/
+dist/
+assets-src/
+qa/
+.DS_Store
+.vercel
