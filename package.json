@@ -13,7 +13,8 @@
     "fonts": "~/anaconda3/bin/python3 scripts/subset-fonts.py",
     "images": "node scripts/build-images.mjs",
     "qa": "node scripts/qa.mjs",
-    "shots": "node scripts/shots.mjs"
+    "shots": "node scripts/shots.mjs",
+    "readme": "node scripts/readme-assets.mjs && ~/anaconda3/bin/python3 scripts/readme-composite.py"
   },
   "engines": {
     "node": ">=20.10"

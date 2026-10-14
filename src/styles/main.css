@@ -42,7 +42,7 @@
   --foam: #f5ebdd;
   --paper: #efe3cf;
   --paper-light: #f6eddf;
-  --burnt: #a9520f; /* orange for text on cream (4.8:1) */
+  --burnt: #a9520f; /* orange for text on cream (4.6:1) */
   --panel: #1e1d1a;
 
   --display: 'Oswald', 'Arial Narrow', Impact, sans-serif;
@@ -189,6 +189,7 @@ button {
   display: inline-flex;
   align-items: center;
   gap: 0.55em;
+  min-height: 44px;
   color: var(--amber);
   font: 600 15px/1.2 var(--display);
   letter-spacing: 0.09em;
